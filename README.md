@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] Filter buttons styling is improved
-* [X] Stats cars color/styling updated
+* [X] Stats cards color/styling updated
 * [X] Site is mobile friendly 
 
 
