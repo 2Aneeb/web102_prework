@@ -17,9 +17,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] Filter buttons styling is improved 
-  [X] Other color/styling updates 
-  [X] Site is mobile friendly 
+* [X] Filter buttons styling is improved
+* [X] Stats cars color/styling updated
+* [X] Site is mobile friendly 
 
 
 ## Video Walkthrough
@@ -29,13 +29,13 @@ Here's a walkthrough of implemented features:
 <img src='assets\codepathwebPreWork.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with LiceCap
+GIF created with LiceCap:
 https://www.cockos.com/licecap/ 
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app.<br>
 Nothing Major
 ## License
 
